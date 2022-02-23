@@ -1,4 +1,4 @@
-module github.com/SimonRichardson/juju-api-example
+module github.com/deviantony/juju-api-example
 
 go 1.16
 
