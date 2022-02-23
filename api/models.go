@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/SimonRichardson/juju-api-example/client"
+	"github.com/deviantony/juju-api-example/client"
 
 	"github.com/juju/errors"
 

@@ -5,7 +5,7 @@ import (
 
 	"github.com/juju/juju/apiserver/params"
 
-	"github.com/SimonRichardson/juju-api-example/client"
+	"github.com/deviantony/juju-api-example/client"
 )
 
 type StatusAPI struct {

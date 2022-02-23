@@ -6,8 +6,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/SimonRichardson/juju-api-example/api"
-	"github.com/SimonRichardson/juju-api-example/client"
+	"github.com/deviantony/juju-api-example/api"
+	"github.com/deviantony/juju-api-example/client"
 	"github.com/juju/charm/v8"
 )
 

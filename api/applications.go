@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/SimonRichardson/juju-api-example/client"
-	"github.com/SimonRichardson/juju-api-example/common"
+	"github.com/deviantony/juju-api-example/client"
+	"github.com/deviantony/juju-api-example/common"
 	"github.com/juju/charm/v8"
 	"github.com/juju/clock"
 	"github.com/juju/collections/set"
